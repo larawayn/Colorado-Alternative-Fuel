@@ -3,7 +3,7 @@
 
 ---
 ## Background & Challenge
-Due to government regulation and consumers demand for cleaner fuel sources, alternative fuel vehicle sales are forecasted to increase dramatically in the coming years. According to a recent analysis  global annual sales for electric vehicles are expected to increase from 2.5 million in 2020 to 12.2 million in 2025. 
+Due to government regulation and consumer demand for cleaner fuel sources, alternative fuel vehicle sales are forecasted to increase dramatically in the coming years. According to a recent analysis  global annual sales for electric vehicles are expected to increase from 2.5 million in 2020 to 12.2 million in 2025. 
 
 
 There will need to be an increase in charging stations to accommodate the growing usage of alternative fuel vehicles. The global electric vehicle charging station market size is projected to reach 30,758 thousand stations by 2027, up from an estimated 2,115 thousand units in 2020.
